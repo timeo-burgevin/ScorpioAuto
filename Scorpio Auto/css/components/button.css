@@ -1,0 +1,8 @@
+.btn-blue {
+  background-color: #808080; /* Couleur de fond changée en gris */
+  padding: 20px 24px;
+  border-radius: 6px;
+  color: white; /* Couleur du texte (blanc) reste inchangée */
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
